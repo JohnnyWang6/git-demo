@@ -2,7 +2,7 @@
 Hello git!
 Hello git!
 Hello git!
-Hello git!
+Hello git! Main test
 Hello git!
 Hello git!  
 atlihongwang
